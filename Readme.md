@@ -31,12 +31,19 @@ We are curious about user-, developer- and mathematicans feedback, so please mai
 last update: Friday, 18 Mar 2005
 
 Original author: by Marco Kunze and Sebastian Nowozin. 
+
 Original website: http://www.nowozin.net/sebastian/tu-berlin-2006/stahlfaust/
+
 Email:   makunze@cs.tu-berlin.de and nowozin@cs.tu-berlin.de
+
 Country: Deutsche
+
 Programming language: C#
+
 IDE: Microsoft .NET framework 
+
 Year: 2005
+
 Notes: First time on any source code repository.
 
 Tags: Five in a Row, Tic Tac Toe, TicTacToe, 5 in a Row, Go-Moku, Connect, Connect5, Connect6, Caro, Noughts and Crosses, Gomoku, Renju, Pente, Piskvork, Amoba, Kółko i Krzyżyk, Gomocup, AI, Engine, Artificial Intelligence, Brain, Pbrain, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding.
