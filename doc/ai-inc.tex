@@ -1,0 +1,41 @@
+
+\usepackage[latin1]{inputenc}
+
+\pagestyle{empty}
+
+\newcommand{\N}{{\mathbb N}}
+\newcommand{\Z}{{\mathbb Z}}
+\newcommand{\R}{{\mathbb R}}
+\newcommand{\Q}{{\mathbb Q}}
+\newcommand{\C}{{\mathbb C}}
+
+\renewcommand{\theequation}{\arabic{equation}}
+%\renewcommand{\labelenumi}{(\alph{enumi})}
+
+\newenvironment{solution}[1]{%
+\vspace{0.5cm}
+\begin{sloppypar}\noindent {\bf #1:}%
+{\nopagebreak\hspace*{\fill}}
+\end{sloppypar}\medskip}
+
+\newcommand{\blattheader}[2]{{\bf \noindent
+Marco Kunze ({\tt makunze@cs.tu-berlin.de})\hfill #2\\
+Sebastian Nowozin ({\tt nowozin@cs.tu-berlin.de})\\[0.4cm]}
+
+\begin{center}{{\Large \bf #1}}
+\end{center}
+
+\vspace*{0.3cm}
+\noindent}
+
+%\parindent=0cm
+
+\usepackage{fancyhdr,lastpage}
+\usepackage{a4wide,latexsym,amssymb,amsfonts,verbatim}
+%\usepackage[dvips]{graphicx}
+\usepackage{color}
+\pagestyle{fancy}
+\cfoot{ \thepage ~/ \pageref{LastPage} }
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
